@@ -1,0 +1,6 @@
+{
+  "name": "PinShift",
+  "description": "Mock GPS location testing tool with an interactive map and manual coordinate selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PinShift</string>
+    <string name="search_placeholder">Search city, address, or paste lat, lng</string>
+    <string name="status_active">MOCK ACTIVE</string>
+    <string name="status_idle">READY TO MOCK</string>
+    <string name="status_setup_required">DEVELOPER SETUP NEEDED</string>
+    <string name="start_mocking">Start Mock Location</string>
+    <string name="stop_mocking">Stop Mocking</string>
+    <string name="update_mock">Update Pin B</string>
+    <string name="enter_coordinates">Manual Coordinates</string>
+    <string name="saved_locations">Saved Spots</string>
+    <string name="setup_diagnostics">Mock Setup &amp; Diagnostics</string>
+    <string name="save_current_pin">Bookmark Pin B</string>
+    <string name="open_dev_settings">Open Developer Options</string>
+    <string name="notification_channel_name">Mock Location Service</string>
+    <string name="notification_channel_desc">Keeps your simulated GPS coordinates active for testing across apps.</string>
+    <string name="notification_stop_action">Stop Mock</string>
+    <string name="cd_center_crosshair">Toggle center crosshair selection</string>
+    <string name="cd_real_location">Center map on real location A</string>
+    <string name="cd_zoom_in">Zoom in</string>
+    <string name="cd_zoom_out">Zoom out</string>
+    <string name="cd_map_style">Toggle dark map tiles</string>
+    <string name="cd_joystick">Toggle fine-tune D-pad</string>
+    <string name="cd_copy_coords">Copy coordinates to clipboard</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_menu_saved">Open saved locations</string>
+    <string name="cd_menu_setup">Open mock location setup guide</string>
+    <string name="cd_bookmark_pin">Save this coordinate</string>
+    <string name="cd_edit_coords">Enter coordinates manually</string>
+    <string name="cd_delete_saved">Delete saved location</string>
+    <string name="cd_nudge_north">Move north</string>
+    <string name="cd_nudge_south">Move south</string>
+    <string name="cd_nudge_east">Move east</string>
+    <string name="cd_nudge_west">Move west</string>
+</resources>
